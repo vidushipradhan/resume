@@ -150,7 +150,9 @@ main.main-section .right {
     left: 15px;
 }
 
-.box.edu {}
+.box.edu {
+    margin-top: 30px !important;
+}
 
 .box.edu .first-line {
     font-weight: 700;
