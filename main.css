@@ -29,7 +29,7 @@ body {
 }
 
 .info-header .introline {
-  font-size: 14px;
+  font-size: 16px;
   margin-top: 10px;
 }
 
@@ -146,7 +146,7 @@ main.main-section .right {
 }
 
 .section-content .company {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 700;
 }
 .client {
@@ -155,7 +155,7 @@ main.main-section .right {
 
 .section-content ul.task-list {
   list-style-image: url("./list-style.png");
-  font-size: 14px;
+  font-size: 16px;
   position: relative;
   margin-top: 10px;
   left: 15px;
